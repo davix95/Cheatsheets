@@ -1,6 +1,8 @@
 ##### This file must not have the .md extension when used.
 The syntaxis of the make file it's easy. Just input:
+		
 		make (whatever)
+
 and it should compile and then run. The code for it is the following:
 
 		.SUFFIXES:
